@@ -1,1 +1,4 @@
 I have replace the word: Hello
+This change now happens only on GitHub.
+
+This represents the last desired state and shall not be overvwritten with the local repo changes
